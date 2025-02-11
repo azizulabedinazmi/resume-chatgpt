@@ -5,7 +5,7 @@ Chat-Based Resume Creator is a powerful tool that helps users generate tailored 
 
 ## Features
 - **OpenAI-Powered Chat Interface** – Customize resumes through a conversational AI.
-- **Resume Parsing** – Extracts text from PDF, DOCX, or TXT files using pdfplumber.
+- **Resume Parsing** – Extracts text from PDF using pdfplumber.
 - **Job-Specific Resume Optimization** – Tailors resumes to match job descriptions.
 - **Interactive Editing** – Modify and adjust the generated resume via chat.
 - **Downloadable Output** – Save the final resume in a preferred format.
